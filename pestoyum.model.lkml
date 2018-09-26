@@ -33,5 +33,5 @@ explore: orders {
     relationship: many_to_one
   }
 }
-
+explore: orders_pdt {}
 explore: users {}
