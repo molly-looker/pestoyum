@@ -21,4 +21,8 @@ view: all_types {
     type: count
     drill_fields: []
   }
+
+  measure: sum {
+    type:  sum
+  }
 }
